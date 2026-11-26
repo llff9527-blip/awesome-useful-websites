@@ -7,6 +7,8 @@ A curated collection of focused websites, with practical English introductions e
 - [GPA Calculator Compass](#gpa-calculator-compass) — understand grade-point averages before trusting a number.
 - [Terraria Wiki Fieldbook](#terraria-wiki-fieldbook) — a fan-made starting point for focused Terraria research.
 
+- [Crescent Solitaire](#crescent-solitaire) — explore a two-deck card puzzle with a described shuffle-preview feature.
+
 ## GPA Calculator Compass
 
 **Website:** [gpacalculator.website](https://gpacalculator.website/)
@@ -64,6 +66,36 @@ Write down your current objective and the uncertainty blocking it. Read the rele
 This is a discovery recommendation, not a claim that every recipe, statistic, or strategy has been independently verified. We do not present the site as exhaustive or guaranteed current. For consequential gameplay details, consult official patch notes and check the behavior in your own game.
 
 **Start here:** [Explore the Terraria fieldbook](https://terrariawiki.site/).
+
+## Crescent Solitaire
+
+**Website:** [crescentsolitaire.online](https://crescentsolitaire.online/)
+
+**Category:** Browser games · Solitaire · Card strategy  
+**Language:** English
+
+### What it offers
+
+Crescent Solitaire presents a two-deck patience game in the browser. Its published rules describe 104 cards, sixteen fans, and eight foundations: four build upward from aces and four downward from kings, by suit. Unlike Klondike, moves between fans use the same suit and can build in either direction.
+
+The homepage advertises free play without registration or a download, visible cards throughout each fan, a shuffle preview, unlimited undo, and device-local progress saving. It also describes Classic, Relaxed, and Easy settings with three, six, and nine shuffles respectively, alongside daily and numbered deals.
+
+### Why we recommend exploring it
+
+- **A distinctive alternative to familiar solitaire.** Two opposing foundation directions give readers a different puzzle to explore rather than another copy of the usual seven-column layout.
+- **An emphasis on informed decisions.** The described shuffle preview is especially appealing: it lets a player inspect the consequences before committing a limited resource. In this ruleset a shuffle rotates cards within fans rather than randomly mixing them.
+- **Room to learn through experimentation.** Unlimited undo, including shuffles according to the site, is a useful advertised feature for comparing alternative moves without immediately abandoning a deal.
+- **Rules available beside the game.** The homepage explains legal moves, empty-fan restrictions, controls, and strategic considerations. We appreciate that a newcomer can read the relevant rules before diving into a less familiar variant.
+
+### A suggested way to use it
+
+Read the rules, start a deal, and inspect both foundation directions before moving cards. Use the preview to ask which cards a shuffle would expose. Prefer a more forgiving setting while learning, and treat undo as a way to understand a decision rather than simply chase a result.
+
+### Important limits
+
+This introduction is based on the public homepage and describes advertised features; it is not an end-to-end gameplay, mobile compatibility, or save-restoration test. The site says progress is stored locally, so do not assume cross-device synchronization or recovery after clearing browser data. We have not independently verified its solvable-deal claims, and inclusion does not imply that every numbered deal can be won.
+
+**Getting started:** Open the website linked above and read the rules before your first deal.
 
 ---
 
