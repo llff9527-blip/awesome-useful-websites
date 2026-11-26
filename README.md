@@ -9,6 +9,9 @@ A curated collection of focused websites, with practical English introductions e
 
 - [Crescent Solitaire](#crescent-solitaire) — explore a two-deck card puzzle with a described shuffle-preview feature.
 
+- [Concrete Calculator Fieldnotes](#concrete-calculator-fieldnotes) — practical concrete-estimation reading.
+- [Sims Cheat Almanac](#sims-cheat-almanac) — a fan guide to Sims 4 console topics.
+
 ## GPA Calculator Compass
 
 **Website:** [gpacalculator.website](https://gpacalculator.website/)
@@ -96,6 +99,56 @@ Read the rules, start a deal, and inspect both foundation directions before movi
 This introduction is based on the public homepage and describes advertised features; it is not an end-to-end gameplay, mobile compatibility, or save-restoration test. The site says progress is stored locally, so do not assume cross-device synchronization or recovery after clearing browser data. We have not independently verified its solvable-deal claims, and inclusion does not imply that every numbered deal can be won.
 
 **Getting started:** Open the website linked above and read the rules before your first deal.
+
+## Concrete Calculator Fieldnotes
+
+**Website:** [concretecalculator.fun](https://concretecalculator.fun/)
+
+**Category:** Home improvement · Concrete estimation guides  
+**Language:** English
+
+### What it offers
+
+Concrete Calculator Fieldnotes is an English reading resource about estimating concrete quantities and understanding the assumptions behind an estimate. Its current homepage is a guide, not an interactive calculator form. Topics include slabs, footings, round piers, post holes, unit conversions, bag yields, and ordering considerations. The article list also includes driveway costs, slab costs, concrete blocks, and mixture-related guides.
+
+### Why we recommend exploring it
+
+- **It looks beyond a single output number.** The homepage discusses measurement and site-condition differences that can affect quantities. We value this as a starting point for asking better questions before using an estimating tool.
+- **Its topics fit practical research tasks.** Readers can begin with the shape or purchasing question relevant to their project rather than assuming one method applies to every job.
+- **It encourages checking inputs.** The discussion of units, actual dimensions, and product-specific yield information is a useful reminder to document assumptions instead of relying on a figure without context.
+
+### A suggested way to use it
+
+Read the relevant guide, list the measurements and supplier information you still need, and use that list to prepare a discussion with a qualified professional. Compare estimates using consistent units and clearly recorded assumptions.
+
+### Important limits
+
+Inclusion is a recommendation to explore the educational material, not an endorsement of every construction claim or an independently tested estimating application. Generic examples cannot specify a safe slab thickness, reinforcement, foundation design, or a universally appropriate waste allowance. Obtain project-specific advice, follow applicable local requirements, and confirm quantities and product yields with your contractor or supplier before purchasing or building.
+
+## Sims Cheat Almanac
+
+**Website:** [sims4cheats.site](https://sims4cheats.site/)
+
+**Category:** Gaming · The Sims 4 · Cheat-code guides  
+**Language:** English
+
+### What it offers
+
+Sims Cheat Almanac is an unofficial fan guide to The Sims 4 cheat console and related gameplay topics. The homepage organizes its discussion around money, building, skills, careers, traits, relationships, and troubleshooting. Its article list also covers custom content, mods, expansion packs, and update-related issues.
+
+### Why we recommend exploring it
+
+- **It provides a topic-based starting point.** A reader with a particular gameplay goal can identify the relevant subject instead of beginning with an unexplained wall of commands.
+- **It discusses context as well as codes.** The homepage raises questions about syntax, required content, and platform differences. We recommend using those questions to investigate why an instruction might not match a particular game setup.
+- **It encourages a cautious workflow.** The site recommends testing unfamiliar changes in a disposable save. That is a sensible habit to retain when experimenting with gameplay modifications.
+
+### A suggested way to use it
+
+Choose the topic matching your goal, make a separate backup or test save, and verify current instructions for your platform and installed packs before experimenting. Distinguish built-in console commands from mods and custom content, which involve separate installation and compatibility considerations.
+
+### Important limits
+
+The site is not affiliated with the game's developer or publisher. We have not independently tested its commands or verified every claim about activation requirements, persistence, or achievements. Patches can change behavior, and a guide should not be treated as a promise that a command will work or preserve achievement eligibility. Check current official guidance where available, especially before using a save you care about. Inclusion does not endorse third-party downloads linked or discussed by the site.
 
 ---
 
