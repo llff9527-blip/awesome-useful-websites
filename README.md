@@ -12,6 +12,9 @@ A curated collection of focused websites, with practical English introductions e
 - [Concrete Calculator Fieldnotes](#concrete-calculator-fieldnotes) — practical concrete-estimation reading.
 - [Sims Cheat Almanac](#sims-cheat-almanac) — a fan guide to Sims 4 console topics.
 
+- [Golf Solitaire Games](#golf-solitaire-games) — a nine-hole card puzzle with a scorecard and review.
+- [Mahjong Solitaire Game](#mahjong-solitaire-game) — single-player tile matching with blocker explanations.
+
 ## GPA Calculator Compass
 
 **Website:** [gpacalculator.website](https://gpacalculator.website/)
@@ -149,6 +152,60 @@ Choose the topic matching your goal, make a separate backup or test save, and ve
 ### Important limits
 
 The site is not affiliated with the game's developer or publisher. We have not independently tested its commands or verified every claim about activation requirements, persistence, or achievements. Patches can change behavior, and a guide should not be treated as a promise that a command will work or preserve achievement eligibility. Check current official guidance where available, especially before using a save you care about. Inclusion does not endorse third-party downloads linked or discussed by the site.
+
+## Golf Solitaire Games
+
+**Website:** [golfsolitairegames.online](https://golfsolitairegames.online/)
+
+**Category:** Browser games · Solitaire · Card strategy  
+**Language:** English
+
+### What it offers
+
+Golf Solitaire Games presents the familiar one-rank-up-or-down card puzzle as a nine-hole round with a shared scorecard. Its homepage describes a single deck, seven face-up columns, a limited stock, and scoring in which a lower total is better. Strict and Wrap-around rules have separate rounds and records.
+
+The site advertises free browser play without registration or a download, unlimited hints and undo during a hole, and a post-hole review comparing a played sequence with a longer visible-card run when one was available. According to its explanation, that review does not rely on stock cards the player could not see.
+
+### Why we recommend exploring it
+
+- **A round provides a clear structure.** Nine holes offer a reason to think beyond one deal and compare decisions across a session. This format is an appealing alternative to treating every hand as a simple win or loss.
+- **The review has an educational purpose.** We particularly like the idea of looking back at an alternative sequence on the same visible cards. It offers a concrete question to investigate rather than an unexplained score.
+- **Rule variants are kept distinct.** Separate records make the site's presentation easier to interpret without confusing results from different conditions.
+
+### A suggested way to use it
+
+Read the rules for your selected variant before beginning. After a hole, inspect the review and ask which exposed card would have extended your sequence. Focus on improving decisions across the round rather than expecting every table to clear.
+
+### Important limits
+
+This introduction describes the public homepage, not independently tested gameplay, mobile compatibility, or save restoration. The site says rounds are stored locally; do not assume cross-device recovery. Its randomly dealt holes are not all guaranteed clearable, and we have not independently reproduced its simulation statistics.
+
+## Mahjong Solitaire Game
+
+**Website:** [mahjongsolitairegame.online](https://mahjongsolitairegame.online/)
+
+**Category:** Browser games · Tile matching · Logic puzzles  
+**Language:** English
+
+### What it offers
+
+Mahjong Solitaire Game is a single-player matching puzzle, not traditional four-player mahjong. Its homepage explains free-tile restrictions and describes visual feedback showing why a blocked tile cannot be selected. Covered and side-blocked tiles are distinguished using shading, rings, and directional markers.
+
+The site advertises free browser play without an account or download, a short practice board, unlimited hints, shuffles and undo, and local progress saving. It describes Turtle, Pagoda, and Twin Pillars layouts, with the smaller layouts intended for portrait-phone play and Turtle offered on larger screens.
+
+### Why we recommend exploring it
+
+- **It explains a common beginner obstacle.** Identical pictures are not enough to make a legal pair. We like the proposed on-board explanations because they give a learner something specific to inspect when a tile seems unresponsive.
+- **Its presentation emphasizes learning.** A practice board and assistance controls are promising entry points for someone unfamiliar with layered tile puzzles.
+- **Layout choice has a practical purpose.** The site's explanation connects board dimensions to available screen space, rather than presenting every layout as interchangeable.
+
+### A suggested way to use it
+
+Begin with the practice board and learn what makes a tile free. Before removing a pair, consider what it will uncover. When a tile is blocked, inspect the explanation before using a hint or shuffle; that turns a pause into an opportunity to understand the board.
+
+### Important limits
+
+Features are described from the public homepage and have not been independently tested end to end. The site's claims about solvable deals and shuffle generation are not independently verified here; even a solvable starting board can lead to a dead end after particular choices. Local storage is not cloud synchronization, and clearing browser data can remove progress.
 
 ---
 
