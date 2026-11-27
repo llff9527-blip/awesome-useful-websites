@@ -15,6 +15,15 @@ A curated collection of focused websites, with practical English introductions e
 - [Golf Solitaire Games](#golf-solitaire-games) — a nine-hole card puzzle with a scorecard and review.
 - [Mahjong Solitaire Game](#mahjong-solitaire-game) — single-player tile matching with blocker explanations.
 
+- [joyzup](#joyzup)
+- [Klondike Free](#klondike-free)
+- [Euchre Online Card Game](#euchre-online-card-game)
+- [Checkers Path](#checkers-path)
+- [Ludazo](#ludazo)
+- [Play Yukon Solitaire](#play-yukon-solitaire)
+- [Cribbage Online](#cribbage-online)
+- [Dominoes Game Online](#dominoes-game-online)
+
 ## GPA Calculator Compass
 
 **Website:** [gpacalculator.website](https://gpacalculator.website/)
@@ -207,8 +216,193 @@ Begin with the practice board and learn what makes a tile free. Before removing 
 
 Features are described from the public homepage and have not been independently tested end to end. The site's claims about solvable deals and shuffle generation are not independently verified here; even a solvable starting board can lead to a dead end after particular choices. Local storage is not cloud synchronization, and clearing browser data can remove progress.
 
+## joyzup
+
+**Website:** [joyzup.com](https://joyzup.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+joyzup is a small browser-game collection centered on clicking, upgrades, and automatic production. The current homepage introduces Apple Tree Idle, credited to Nu Games, alongside Crystal Cavern and Starlight Bakery. It identifies the latter two as site-made games with local saves. Its comparison guide separately labels other recommendations that are not playable on joyzup, an important distinction when choosing where to start.
+
+### Why recommended
+
+- **A focused choice instead of an overwhelming directory.** Three clearly described entries let a reader choose an orchard, mining, or bakery theme without sorting through a huge catalogue.
+- **Useful context for newcomers.** The homepage distinguishes active clicking from automation and explains why an early helper can change the rhythm of a session. We like that it frames the genre through decisions, not just rising counters.
+- **Clearer expectations about availability.** Separating hosted games from comparison-only suggestions makes the recommendation pages easier to interpret.
+
+For a first visit, pick one game and aim for one understandable upgrade. Continue only if the collecting-and-reinvesting loop itself is enjoyable.
+
+### Important limits
+
+This entry describes the public homepage, not a fresh end-to-end gameplay or save-restoration test. Device support and third-party player behavior can vary. Do not assume offline earnings, cross-device saves, or universal ad-free play. “Unblocked” does not override school or workplace network rules; play only where permitted.
+
+## Klondike Free
+
+**Website:** [klondikefree.com](https://klondikefree.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Klondike Free presents classic single-player solitaire in the browser, with Draw 1 and Draw 3 modes. The public homepage describes seven tableau columns, alternating-color descending sequences, and four suit foundations built upward from aces. It advertises free play without an account or download, ten visual themes, hints, undo, and date-based daily challenges. A detailed rules section explains the difference between the stock, waste, tableau, and foundations.
+
+### Why recommended
+
+- **Two familiar modes with explicit explanations.** Readers can choose a gentler draw rhythm or a more restrictive stock sequence without guessing what the setting changes.
+- **Help aimed at understanding moves.** The site describes short explanations for hints rather than presenting them as guaranteed winning choices. That is a useful distinction for learning a card game.
+- **Presentation that can be personalized.** Themes change the atmosphere without changing the deal or legal rules, according to the homepage.
+
+A sensible first session is to choose one mode, read its stock rules, and try a hand before considering daily results or leaderboards.
+
+### Important limits
+
+This introduction is based on published descriptions, not an independent full-game, recovery, or leaderboard audit. Random and daily deals are not certified winnable. Saves depend on browser storage and an anonymous identity, not an account-based cross-device backup. The listed leaderboards are casual, not tamper-proof contests. Desktop shortcut controls are not mobile features.
+
+## Euchre Online Card Game
+
+**Website:** [euchreonlinecardgame.com](https://euchreonlinecardgame.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Euchre Online Card Game offers partnership Euchre against computer players. Its homepage describes a 24-card deck, two fixed partnerships, and a ten-point match target. Free browser play requires no account or download. The advertised extras include three computer levels, ten themes, a bidding trainer, explanations, and daily play.
+
+### Why recommended
+
+- **Practice includes the call before the trick.** A bidding trainer gives readers a focused way to think about hand strength, dealer position, and trump selection without committing every learning session to a full match.
+- **Important rules receive attention.** The homepage explains the right and left bowers, a common source of confusion for someone learning the game from another trick-taking tradition.
+- **Training feedback is qualified.** The site explicitly calls its guidance heuristic rather than a certified solver result. We appreciate a resource that distinguishes a reasonable decision from a guaranteed outcome.
+
+Start with the rules, then use the trainer to explain a call in your own words before playing a match.
+
+### Important limits
+
+This is not live human multiplayer. Features are described from the homepage, not independently tested match behavior, recovery, or leaderboard integrity. Daily scores are casual and not server-replay-verified. Browser identity and storage affect recovery; anonymous online services are not an email-account backup. The site describes no wagering or cash prizes.
+
+## Checkers Path
+
+**Website:** [checkerspath.com](https://checkerspath.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Checkers Path is a browser-based American checkers game. Its homepage describes an eight-by-eight board, twelve pieces per side, mandatory captures, four computer difficulty levels, and a shared-device two-player mode. The distinguishing advertised feature is a complete jump-route preview: select a capturing piece, compare the legal routes, inspect captured pieces and the final square, and confirm a move only afterward. 
+
+### Why recommended
+
+- **The destination gets attention, not just the next hop.** Comparing a whole capture route is an appealing way to connect a legal move with the position it leaves behind.
+- **The ruleset is named clearly.** The homepage explains that American checkers requires captures but does not require the route taking the most pieces. This helps readers avoid importing a different variant's rule by accident.
+- **Preview and commitment are separated.** According to the description, viewing a route does not change the real board. That makes the proposed workflow easy to understand: examine first, then decide.
+
+Compare ending squares before confirming.
+
+### Important limits
+
+This entry is based on the homepage, not an independent AI-strength or complete gameplay test. Shared-device play is not remote multiplayer. Previews show legal routes, not proven best choices; hints and bounded computer search cannot guarantee wins. Saves depend on browser storage, and manual export/import is not automatic cloud synchronization. Daily practice positions may repeat.
+
+## Ludazo
+
+**Website:** [ludazo.com](https://ludazo.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Ludazo is a browser-game catalogue with clicker, idle, card, and board-game sections. The homepage pairs covers with short descriptions, from garden and mining upgrade loops to checkers, solitaire, Euchre, and dominoes. It distinguishes its original Sprout Circuit and locally hosted open-source titles from externally supplied players. Browsing and opening games require no Ludazo account or app installation, according to its public information.
+
+### Why recommended
+
+- **Descriptions help choose a style of play.** Labels such as mining and merging, garden automation, or production management are more useful than a title alone when deciding what fits a short break.
+- **The collection extends beyond clicking.** Card and board sections offer another direction when a reader wants a more deliberate turn-based puzzle instead of repeated resource gathering.
+- **Sources and limitations are discussed.** The homepage explains that provider availability, controls, advertising, and save handling vary. We value this transparency over treating every embedded game as identical.
+
+Choose a category first, then read the selected game's individual controls and source information. 
+
+### Important limits
+
+This recommendation concerns the catalogue and its descriptions, not independent testing of every listed title. Device compatibility and external-player availability vary. No site-wide account synchronizes saves across providers or devices. External games may offer advertisements, optional accounts, or purchases. Do not assume permanent offline play, and do not bypass a school's or workplace's network rules.
+
+## Play Yukon Solitaire
+
+**Website:** [playyukonsolitaire.com](https://playyukonsolitaire.com/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Play Yukon Solitaire presents a single-player card game with all 52 cards dealt into seven columns and no stock pile. A face-up card can move with the cards below it even when that group is unsorted, provided the leading card fits the destination. The homepage's distinctive feature is Compare paths: retain an original snapshot while playing independent Path A and Path B, then confirm which route to continue. 
+
+### Why recommended
+
+- **Experimentation is built into the idea.** Instead of relying on memory after undoing several moves, a player can explore two branches from the same position, according to the site's description.
+- **Comparison uses understandable observations.** Newly revealed cards, empty columns, and foundation progress give readers concrete aspects to examine without claiming to measure a guaranteed winning path.
+- **Yukon's difference from Klondike is explained.** The absence of a stock and the ability to move unsorted groups make this a distinct puzzle rather than a purely cosmetic solitaire variant.
+
+Read the movement rules, then compare two choices before selecting a branch.
+
+### Important limits
+
+This entry describes advertised functionality, not an independent branch-recovery or full-game test. The player must explore the branches; comparison does not inspect hidden cards in advance or solve the deal. Random games are not guaranteed winnable. Saves use browser storage, not automatic cloud sync; manual backup support should not be confused with account-based recovery.
+
+## Cribbage Online
+
+**Website:** [cribbageonline.site](https://cribbageonline.site/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Cribbage Online offers six-card cribbage against a computer opponent. The homepage describes discarding two cards to the crib, pegging during play, counting the show, and racing to 121 points. It advertises free browser play without registration or a download, three computer levels, ten table themes, hints, and local saving. 
+
+### Why recommended
+
+- **Automatic counting is accompanied by explanations.** The homepage says scoring lines list the cards making each combination. That is an appealing learning aid for a game whose scoring can initially feel less obvious than its turn order.
+- **Discard choices get a review.** The advertised analyzer compares the retained hand with another keep using starter-card averages and a crib estimate. We see this as a prompt for reflection, not a certified declaration that one choice wins the match.
+- **The whole sequence is introduced.** Cutting, discarding, pegging, counting, and finishing are presented together, giving a newcomer a map of the game rather than isolated scoring facts.
+
+Begin at an approachable level and read each scoring explanation. Ask how the crib's ownership changes your discard decision.
+
+### Important limits
+
+This site provides computer opponents, not online rooms for human friends. We have not independently validated its scoring engine, discard model, difficulty, or save restoration. Feature descriptions come from the public homepage. Local progress and records depend on the current browser; clearing site data can remove them.
+
+## Dominoes Game Online
+
+**Website:** [dominoesgame.online](https://dominoesgame.online/)
+
+**Category:** Browser games · Casual play
+**Language:** English
+
+### What it offers
+
+Dominoes Game Online presents a two-player game against the computer using a double-six set of 28 tiles. Its homepage describes matching open ends of a chain, starting with seven tiles each, and carrying round scores toward a default 100-point target. It is described as free browser play with no account or download.
+
+### Why recommended
+
+- **A rule difference becomes something to try.** The Draw vs Block demonstration reportedly presents the same stuck position under both rules. We like this concrete approach to explaining drawing from the boneyard versus passing.
+- **The scoring is laid out beside the game.** The homepage distinguishes emptying a hand from a blocked round, helping readers see why tile values matter even before the match ends.
+- **Controls are described in practical terms.** Tap a tile, then choose an end if it fits both. This is a straightforward starting model.
+
+Begin with the comparison demo, then choose a mode and pay attention to which numbers the opponent cannot play.
+
+### Important limits
+
+This entry describes the public homepage rather than independently tested AI behavior, mobile support, or save restoration. It is not remote human multiplayer or a four-player table. The computer's advertised information limits and difficulty strategies have not been audited here. Progress is stored in the current browser, so clearing site data can remove the match; do not assume cloud recovery.
+
+
 ---
 
 ## Editorial scope
 
-These introductions were prepared at the repository owner's request from the sites' public homepages, checked on **November 26, 2026**. They are not independent user testimonials or comprehensive audits. Inclusion does not establish affiliation with any school, game developer, or publisher. Features and content may change; evaluate each resource against your own needs.
+These introductions were prepared at the repository owner's request from the sites' public homepages, checked individually on **November 26–27, 2026**. They are not independent user testimonials or comprehensive audits. Inclusion does not establish affiliation with any school, game developer, or publisher. Features and content may change; evaluate each resource against your own needs.
